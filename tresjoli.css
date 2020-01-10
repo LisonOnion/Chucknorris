@@ -1,0 +1,43 @@
+body {
+    background-color:orange;
+}
+
+* {
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    list-style: none;
+    background-image: url("fire.jpg");
+    background-size: cover;
+    padding: 10px;
+    font-family:Impact,'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-shadow: black 1px 1px,black -1px 1px, black 1px -1px, black -1px -1px;
+    font-size: 30px;
+}
+
+a:visited {
+color: white;
+}
+
+
+
+#divv
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+#divfact {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+#lastfact {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
